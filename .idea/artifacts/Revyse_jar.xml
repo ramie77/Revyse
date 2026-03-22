@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Revyse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Revyse_jar</output-path>
+    <root id="archive" name="Revyse.jar">
+      <element id="module-output" name="Revyse" />
+    </root>
+  </artifact>
+</component>
